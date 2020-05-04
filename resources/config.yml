@@ -8,8 +8,9 @@ display-format: '{name}'
 
 
 # Edit all the worlds that you dont want item names to be displayed
-disabled-worlds: 
+disabled-worlds: [
 - 'ExampleWorld'
+]
 
 
 # List all the items you dont want names to be displayed. Use item id's.
